@@ -1,4 +1,3 @@
-my_vagrant_stuff
-================
+Misc Tidbits of Stuff
+=====================
 
-Vagrantfiles and such
